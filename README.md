@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Awanmistcuber
 - 👀 I’m interested in Rubik's Cube, python, Html, CSS, ruby, Linux, swift, javascript, c language.
-- 🌱 I’m currently learning python, html, css.
-- 💞️ I’m looking to collaborate on nothing.
+- 🌱 I’m currently learning python, html, css, c, php, sql.
 - 📫 You can reach me via my email i.e., 2611amunbansal@gmail.com
 
 <!---
